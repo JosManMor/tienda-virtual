@@ -17,7 +17,7 @@ La aplicacion permite consultar articulos universitarios, agregarlos al carrito 
 
 ---
 
-## 2. Estructura del proyecto
+## 2. Estructura del proyecto :)
 
 ```text
 virtual-store-demo/
