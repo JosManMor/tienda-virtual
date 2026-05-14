@@ -129,7 +129,7 @@ PORT=4000
 CORS_ORIGIN=http://localhost:5173
 ```
 
-### Frontend
+### Frontend :/
 
 Archivo: `frontend/.env`
 
